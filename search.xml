@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>MathJax_Basic01</title>
+      <link href="/2022/10/12/MathJax_Basic01/"/>
+      <url>/2022/10/12/MathJax_Basic01/</url>
+      
+        <content type="html"><![CDATA[<font size="6"><b>This is a MarkDown Notes for learning MathJax.</b></font><h2 id="MathJax-Location"><a href="#MathJax-Location" class="headerlink" title="MathJax Location"></a>MathJax Location</h2><div class="table-container"><table><thead><tr><th style="text-align:center">位置</th><th style="text-align:center">代码</th><th style="text-align:center">示例</th></tr></thead><tbody><tr><td style="text-align:center">行内插入</td><td style="text-align:center">$…$</td><td style="text-align:center">$\sum<em>{i=0}^N\int</em>{a}^{b}g(t,i)\text{d}t$</td></tr><tr><td style="text-align:center">自成段落</td><td style="text-align:center"><script type="math/tex">...</script></td></tr></tbody></table></div><p>$\sum<em>{i=0}^N\int</em>{a}^{b}g(t,i)\text{d}t$</p><script type="math/tex; mode=display">\sum_{i=0}^N\int_{a}^{b}g(t,i)\text{d}t</script><h2 id><a href="#" class="headerlink" title=" "></a> </h2>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> MathJax </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>MarkDown_Basic03</title>
       <link href="/2022/10/10/MarkDown_Basic03/"/>
       <url>/2022/10/10/MarkDown_Basic03/</url>
